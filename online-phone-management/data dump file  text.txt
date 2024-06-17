@@ -1,0 +1,110 @@
+_id
+661eb3a0a3a6107ccbb4770b
+customerId
+"60aadb94b2428a001c4284be"
+
+items
+Array (1)
+orderDate
+2024-04-16T17:21:36.731+00:00
+
+id
+661edcfa703cf689a0e3ebc4
+customerId
+"60aadb94b2428a001c4284be"
+
+items
+Array (1)
+orderDate
+2024-04-16T20:18:02.774+00:00
+_id
+661ee9a2deeb1a18cb7fabf1
+customerId
+"60aadb94b2428a001c4284be"
+
+items
+Array (1)
+orderDate
+2024-04-16T21:12:02.191+00:00
+
+id
+661e898eb7b98ad19e6396af
+manufacturer
+"Google"
+model
+"Pixel 6"
+price
+699
+_id
+661e898eb7b98ad19e6396b0
+manufacturer
+"Hauwei"
+model
+"Hauwei 21"
+price
+699
+_id
+661e898eb7b98ad19e6396b4
+manufacturer
+"Microsoft"
+model
+"Microsoft 365"
+price
+999
+_id
+661e898eb7b98ad19e6396b5
+manufacturer
+"Alcatel"
+model
+"Alcatel 60"
+price
+799
+_id
+661e898eb7b98ad19e6396b1
+manufacturer
+"Lenovo"
+model
+"Lenvo 7"
+price
+699
+_id
+661e898eb7b98ad19e6396b2
+manufacturer
+"Sony"
+model
+"Sony 120"
+price
+699
+_id
+661e898eb7b98ad19e6396b3
+manufacturer
+"Nokia"
+model
+"Nokia 7"
+price
+799
+_id
+661e898eb7b98ad19e6396b6
+manufacturer
+"Samsung"
+model
+"Galaxy A10"
+price
+799
+_id
+661e898eb7b98ad19e6396ae
+manufacturer
+"Redmi"
+model
+"Redemi 1"
+price
+699
+_id
+661e898eb7b98ad19e6396b7
+manufacturer
+"Apple"
+model
+"iPhone 11"
+price
+999
+
